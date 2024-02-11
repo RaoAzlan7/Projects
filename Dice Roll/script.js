@@ -18,6 +18,7 @@ else{
 }
 }
 // Checks if the user is loading the webPage for the first time.
+// External Code
 function navigationType(){
 
     var result;
