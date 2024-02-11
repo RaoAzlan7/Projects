@@ -17,6 +17,7 @@ else{
     document.querySelector("h1").innerHTML= "Player 2 Wins!🚩";
 }
 }
+// Checks if the user is loading the webPage for the first time.
 function navigationType(){
 
     var result;
